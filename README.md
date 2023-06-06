@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science (1/8)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fravioh&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fravioh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fravioh&layout=compact&theme=transparent)](https://github.com/fravioh/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="fravioh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fravioh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
