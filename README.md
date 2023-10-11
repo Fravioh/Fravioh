@@ -1,6 +1,6 @@
 ### Hi there  i'm fravioh👋
 - Dev Cobol 19y
-- 🌱 I’m currently learning Computer Science (1/8)
+- 🌱 I’m currently learning Computer Science (2/8)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fravioh&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fravioh&layout=compact&theme=transparent)](https://github.com/fravioh/github-readme-stats)
